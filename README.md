@@ -49,4 +49,9 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 <a href="mailto:connectvanshsehgal2019@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/vanshsehgal08/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vanshsehgal08&theme=radical&border_radius=4.7)](https://git.io/streak-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsehgal08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
