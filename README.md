@@ -30,6 +30,7 @@ A CSE undergrad at VIT, Vellore. I am open to learning new things and getting in
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+ 
 <h3 style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3> 
   
 - 🌐 &nbsp;
