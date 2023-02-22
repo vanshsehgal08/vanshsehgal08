@@ -13,7 +13,8 @@ A CSE undergrad at VIT, Vellore. I am open to learning new things and getting in
 
 <h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 <div>
-
+<img align="right" width="200" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+ 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=454B1B)
