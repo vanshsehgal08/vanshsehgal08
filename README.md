@@ -54,6 +54,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vanshsehgal08)](https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsehgal08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
