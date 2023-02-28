@@ -60,7 +60,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 <p align="left">
 <a href="https://github.com/vanshsehgal08">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanshsehgal08&show_icons=true&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-     <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsehgal08&layout=compact&theme=vision-friendly-dark" alt="vanshsehgal08"/>
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsehgal08&layout=compact&theme=vision-friendly-dark" alt="vanshsehgal08"/>
 </a>
 </p>
  
