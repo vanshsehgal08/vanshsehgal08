@@ -60,4 +60,11 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
  
 ![snake gif](https://github.com/vanshsehgal08/vanshsehgal08/blob/output/github-contribution-grid-snake.svg)
 
-<img align="left" width="2000" height="250" src="[https://github.com/vanshsehgal08/vanshsehgal08/blob/main/VANSH%20SEHGAL.png](https://github.com/vanshsehgal08/vanshsehgal08/blob/main/EAT%20SLEEP%20CODE%20REPEAT.pdf)">
+div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFb5B8FuHU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https://www.canva.com/design/DAFb5B8FuHU/wAGgvBa-y4VQH7OutU1IjQ/view?utm_content=DAFb5B8FuHU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" target="_blank" rel="noopener">EAT SLEEP CODE REPEAT.pdf</a> by Vansh Sehgal
