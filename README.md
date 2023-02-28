@@ -52,11 +52,15 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 
 ---
 
-### :fire: My Stats :
+### ⚙️ &nbsp;GitHub Analytics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vanshsehgal08&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsehgal08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<a href="https://github.com/vanshsehgal08">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanshsehgal08&show_icons=true&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+     <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsehgal08&layout=compact&theme=vision-friendly-dark" alt="vanshsehgal08"/>
+</a>
+</p>
  
 ![snake gif](https://github.com/vanshsehgal08/vanshsehgal08/blob/output/github-contribution-grid-snake.svg)
 
