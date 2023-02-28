@@ -60,4 +60,4 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
  
 ![snake gif](https://github.com/vanshsehgal08/vanshsehgal08/blob/output/github-contribution-grid-snake.svg)
 
-<img align="left" width="2000" height="250" src="https://github.com/vanshsehgal08/vanshsehgal08/blob/main/VANSH%20SEHGAL.png">
+<img align="left" width="2000" height="250" src="[https://github.com/vanshsehgal08/vanshsehgal08/blob/main/VANSH%20SEHGAL.png](https://github.com/vanshsehgal08/vanshsehgal08/blob/main/EAT%20SLEEP%20CODE%20REPEAT.pdf)">
