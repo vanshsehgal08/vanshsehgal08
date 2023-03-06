@@ -51,7 +51,9 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 <a href="https://hashnode.com/@vanshsehgal08"> <img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="mailto:connectvanshsehgal2019@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/vansh_5284/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
+ 
+ <a align="right"> <img src="https://komarev.com/ghpvc/?username=vanshsehgal08&label=Profile%20views&color=0e75b6&style=flat" alt="vanshsehgal08" /></a>
+ 
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
