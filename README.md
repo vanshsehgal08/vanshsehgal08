@@ -2,9 +2,10 @@
 A CSE undergrad at VIT, Vellore. I am open to learning new things and getting involved with new projects that can help me learn.
 <h3 style="color:yellow;" > About Me </h3>  
  <div>
-👨🏻‍🎓 Vellore Institute of Technology, Vellore
+👨🏻‍🎓 CSE Undergrad at VIT, Vellore
 <br>📚 Learning C++, Flutter and Dart
 <br>👨‍💻 Learning all about Open Source
+<br>♨️ Exploring Web Development
 <br>🔭 Tech & Business Enthusiast
 </div>
 
