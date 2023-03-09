@@ -49,7 +49,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 <p align="left">
 <a href="https://www.linkedin.com/in/vansh-sehgal-794030220/"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/vanshsehgal2019"> <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://hashnode.com/@vanshsehgal08"> <img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://leetcode.com/vanshsehgal08/"> <img title="Leetcode" src="https://img.shields.io/badge/leetcode-E5C61E?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:connectvanshsehgal2019@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/vansh_5284/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  
