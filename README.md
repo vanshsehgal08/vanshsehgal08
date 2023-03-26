@@ -17,22 +17,32 @@ A CSE undergrad at VIT, Vellore. I am open to learning new things and getting in
 
 <!--   <img align="right" width="200" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
  
+
+ 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=454B1B)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+ [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white")](#) [![Cpp Badge](https://img.shields.io/badge/C++-Green?style=for-the-badge&logo=c%2B%2B&logoColor=white")](#) 
+ 
+ - 🛢 &nbsp;
+ [![MySQL Badge](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white")](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white")](#) 
+
+ - ⚙️ &nbsp;
+ [![Git Badge](https://img.shields.io/badge/Git-1FA197?style=for-the-badge&logo=git&logoColor=white")](#) [![GitHub Badge](https://img.shields.io/badge/github-1F52A1?style=for-the-badge&logo=github&logoColor=white")](#) 
+ 
+ - 🔧 &nbsp;
+ [![VS Code Badge](https://img.shields.io/badge/VSCode-22ABD6?style=for-the-badge&logo=visual-studio-code&logoColor=white")](#) 
+ [![RStudio Badge](https://img.shields.io/badge/RStudio-BF2B16?style=for-the-badge&logo=RStudio&logoColor=white")](#) 
+ 
+  - 🖥 &nbsp;
+ [![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-7F4E1D?style=for-the-badge&logo=adobe-photoshop&logoColor=white")](#) 
+ [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-256727?style=for-the-badge&logo=adobe-illustrator&logoColor=white")](#) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 <h3 style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3> 
   
@@ -43,7 +53,28 @@ A CSE undergrad at VIT, Vellore. I am open to learning new things and getting in
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ 
+  [![HTML5](https://img.shields.io/badge/HTML5-390F52?style=for-the-badge&logo=HTML5&logoColor=white")](#) 
+  [![CSS](https://img.shields.io/badge/CSS-3F6499?style=for-the-badge&logo=CSS&logoColor=white")](#) 
+  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) 
+  [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) 
+  [![node.js](https://img.shields.io/badge/node.js-30EA55?style=for-the-badge&logo=node.js&logoColor=white")](#) 
+  [![react](https://img.shields.io/badge/react-0D9BB8?style=for-the-badge&logo=react&logoColor=white")](#) 
+ 
+ 
+ 
 <br/>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;"> :
 <p align="left">
