@@ -52,24 +52,11 @@ A CSE undergrad at VIT, Vellore. I am open to learning new things and getting in
   [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) 
   [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) 
   [![node.js](https://img.shields.io/badge/node.js-30EA55?style=for-the-badge&logo=node.js&logoColor=white")](#) 
-  [![react](https://img.shields.io/badge/react-0D9BB8?style=for-the-badge&logo=react&logoColor=white")](#) 
+  [![react](https://img.shields.io/badge/react-0D9BB8?style=for-the-badge&logo=react&logoColor=white")](#)  
  
- 
- 
-<br/>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ ---
 
-You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;"> :
+ <h3>You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;">:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vansh-sehgal-794030220/"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/vanshsehgal2019"> <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
@@ -77,10 +64,11 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 <a href="mailto:connectvanshsehgal2019@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/vansh_5284/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  
- <a align="right"> <img src="https://komarev.com/ghpvc/?username=vanshsehgal08&label=Profile%20views&color=0e75b6&style=flat" alt="vanshsehgal08" /></a>
- 
+ <a align="right"> <img src="https://komarev.com/ghpvc/?username=vanshsehgal08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vanshsehgal08" /></a>
+
 ---
 
+ 
 ### ⚙️ &nbsp;GitHub Analytics
 
  
@@ -90,6 +78,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsehgal08&layout=compact&theme=vision-friendly-dark" alt="vanshsehgal08"/>
 </a>
 </p>
+<br/>
  
 ![snake gif](https://github.com/vanshsehgal08/vanshsehgal08/blob/output/github-contribution-grid-snake.svg)
 
