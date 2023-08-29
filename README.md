@@ -55,7 +55,6 @@ A 2nd year CSE undergrad at VIT, Vellore. I am open to learning new things and g
   [![node.js](https://img.shields.io/badge/node.js-30EA55?style=for-the-badge&logo=node.js&logoColor=white")](#) 
   [![react](https://img.shields.io/badge/react-0D9BB8?style=for-the-badge&logo=react&logoColor=white")](#)
   [![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white")](#)
-  [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white")](#)
   
 
  
