@@ -20,7 +20,7 @@ A CSE undergrad at VIT, Vellore. I am open to learning new things and getting in
 
  
 - 💻 &nbsp;
- [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white")](#) [![Cpp Badge](https://img.shields.io/badge/C++-Green?style=for-the-badge&logo=c%2B%2B&logoColor=white")](#) 
+ [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white")](#) [![Cpp Badge](https://img.shields.io/badge/C++-Green?style=for-the-badge&logo=c%2B%2B&logoColor=white")](#) <img src="https://img.shields.io/badge/Java-a0631a?style=for-the-badge&logo=java&logoColor=white">
  
  - 🛢 &nbsp;
  [![MySQL Badge](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white")](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white")](#) 
@@ -30,7 +30,8 @@ A CSE undergrad at VIT, Vellore. I am open to learning new things and getting in
  
  - 🔧 &nbsp;
  [![VS Code Badge](https://img.shields.io/badge/VSCode-22ABD6?style=for-the-badge&logo=visual-studio-code&logoColor=white")](#) 
- [![RStudio Badge](https://img.shields.io/badge/RStudio-BF2B16?style=for-the-badge&logo=RStudio&logoColor=white")](#) 
+ [![RStudio Badge](https://img.shields.io/badge/RStudio-BF2B16?style=for-the-badge&logo=RStudio&logoColor=white")](#)
+ [![Netlify](https://img.shields.io/badge/Netlify-000030?style=for-the-badge&logo=netlify&logoColor=white")](#)
  
   - 🖥 &nbsp;
  [![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-7F4E1D?style=for-the-badge&logo=adobe-photoshop&logoColor=white")](#) 
@@ -52,7 +53,11 @@ A CSE undergrad at VIT, Vellore. I am open to learning new things and getting in
   [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) 
   [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) 
   [![node.js](https://img.shields.io/badge/node.js-30EA55?style=for-the-badge&logo=node.js&logoColor=white")](#) 
-  [![react](https://img.shields.io/badge/react-0D9BB8?style=for-the-badge&logo=react&logoColor=white")](#)  
+  [![react](https://img.shields.io/badge/react-0D9BB8?style=for-the-badge&logo=react&logoColor=white")](#)
+  [![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white")](#)
+  [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white")](#)
+  
+
  
  ---
 
