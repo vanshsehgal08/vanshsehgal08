@@ -1,5 +1,5 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I'm Vansh Sehgal</h2>
-A CSE undergrad at VIT, Vellore. I am open to learning new things and getting involved with new projects that can help me learn.
+A 2nd year CSE undergrad at VIT, Vellore. I am open to learning new things and getting involved with new projects that can help me learn.
 <h3 style="color:yellow;" > About Me </h3>  
  <div>
 👨🏻‍🎓 CSE Undergrad at VIT, Vellore
