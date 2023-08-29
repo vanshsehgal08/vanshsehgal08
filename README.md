@@ -47,8 +47,7 @@ A 2nd year CSE undergrad at VIT, Vellore. I am open to learning new things and g
  
 <h3 style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3> 
   
-- 🌐 &nbsp;
-  [![HTML5](https://img.shields.io/badge/HTML5-390F52?style=for-the-badge&logo=HTML5&logoColor=white")](#) 
+[![HTML5](https://img.shields.io/badge/HTML5-390F52?style=for-the-badge&logo=HTML5&logoColor=white")](#) 
   [![CSS](https://img.shields.io/badge/CSS-3F6499?style=for-the-badge&logo=CSS&logoColor=white")](#) 
   [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) 
   [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) 
