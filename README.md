@@ -83,6 +83,7 @@ A 3rd year CSE undergrad at VIT, Vellore. I am open to learning new things and g
 </p>
 <br/>
  
-![snake gif](https://github.com/vanshsehgal08/vanshsehgal08/blob/output/github-contribution-grid-snake.svg)
+<img align="left" width="900" height="250" src="https://github.com/vanshsehgal08/vanshsehgal08/blob/main/EAT%20SLEEP%20CODE%20REPEAT.pdf%20(1).png">
 
-<img align="left" width="2000" height="250" src="https://github.com/vanshsehgal08/vanshsehgal08/blob/main/EAT%20SLEEP%20CODE%20REPEAT.pdf%20(1).png">
+![snake gif](https://github.com/vanshsehgal08/vanshsehgal08/blob/output/github-snake-dark.svg)
+
