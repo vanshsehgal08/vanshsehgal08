@@ -3,9 +3,11 @@ A 3rd year CSE undergrad at VIT, Vellore. I am open to learning new things and g
 <h3 style="color:yellow;" > About Me </h3>  
  <div>
 👨🏻‍🎓 CSE Undergrad at VIT, Vellore
-<br>📚 Learning C++, Flutter and Dart
-<br>👨‍💻 Learning all about Open Source
-<br>♨️ Exploring Web Development
+<br>📚 Proficient in Java, Python, JavaScript, and C/C++
+<br>👨‍💻 Full Stack Web Developer (Node.js, React, Express)
+<br>💾 Database Management: MySQL, MongoDB
+<br>🧠 Machine Learning and Data Structures enthusiast
+<br>🛠️ Experienced with Git, AWS, and Linux environments
 <br>🔭 Tech & Business Enthusiast
 </div>
 
