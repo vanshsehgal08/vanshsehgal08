@@ -97,5 +97,5 @@ A 3rd year CSE undergrad at VIT, Vellore. I am open to learning new things and g
 
 <img align="left" width="900" height="250" src="https://github.com/vanshsehgal08/vanshsehgal08/blob/main/EAT%20SLEEP%20CODE%20REPEAT.pdf%20(1).png">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Saket-db/Saket-db/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vanshsehgal08/vanshsehgal08/output/snake.svg" alt="Snake animation" />
 </div>
