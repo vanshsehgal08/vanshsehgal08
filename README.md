@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <a href="https://www.vanshx.live/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-www.vanshx.live-00D4AA?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/4th%20Year%20Student-Computer%20Science-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student" />
   <img src="https://img.shields.io/badge/VIT%20Vellore-green?style=for-the-badge&logo=university&logoColor=white" alt="VIT Vellore" />
   <img src="https://img.shields.io/badge/Tech%20Enthusiast-%20Developer-orange?style=for-the-badge&logo=code&logoColor=white" alt="Tech Enthusiast" />
