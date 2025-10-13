@@ -116,8 +116,7 @@
 <div align="center">
   
   ![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshsehgal08&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshsehgal08&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=FFFFFF)
+
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsehgal08&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8)
   
