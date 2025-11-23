@@ -108,7 +108,7 @@
 ## 🌟 Featured Projects
 <div align="center">
 
-### 🚀 [CogniVue – AI-powered Interview Preparation Platform](https://www.cognivue.software/)
+### 🚀 [CogniVue – AI-powered Interview Preparation Platform](https://www.cognivue.software/about)
 
 [![CogniVue](https://img.shields.io/badge/CogniVue-AI%20Interview%20Prep-00D4AA?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/vanshsehgal08/cognivue)
 
