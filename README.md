@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Tech%20Enthusiast-%20Developer-orange?style=for-the-badge&logo=code&logoColor=white" alt="Tech Enthusiast" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshsehgal08&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -145,9 +149,7 @@
   
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanshsehgal08&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
+
 
   
 </div>
