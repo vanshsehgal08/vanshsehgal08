@@ -42,8 +42,6 @@
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
@@ -72,7 +70,7 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
   
   <h3>☁️ Cloud & DevOps</h3>
   
@@ -89,24 +87,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-  <h3>🧠 Core Computer Science</h3>
-  
-  ![DSA](https://img.shields.io/badge/DSA-1F2937?style=for-the-badge&logo=data-structures&logoColor=00D4AA)
-  ![OOP](https://img.shields.io/badge/OOP-374151?style=for-the-badge&logo=object-oriented-programming&logoColor=00D4AA)
-  ![OS](https://img.shields.io/badge/OS-4B5563?style=for-the-badge&logo=operating-system&logoColor=00D4AA)
-  ![Networking](https://img.shields.io/badge/Networking-6B7280?style=for-the-badge&logo=networking&logoColor=00D4AA)
-  ![DBMS](https://img.shields.io/badge/DBMS-9CA3AF?style=for-the-badge&logo=database&logoColor=1F2937)
-  ![Architecture](https://img.shields.io/badge/Architecture-D1D5DB?style=for-the-badge&logo=architecture&logoColor=1F2937)
-  
-  <h3>📋 Development Methodologies</h3>
-  
-  ![Agile](https://img.shields.io/badge/Agile-1F2937?style=for-the-badge&logo=agile&logoColor=00D4AA)
-  ![Scrum](https://img.shields.io/badge/Scrum-374151?style=for-the-badge&logo=scrum&logoColor=00D4AA)
-  ![Kanban](https://img.shields.io/badge/Kanban-4B5563?style=for-the-badge&logo=kanban&logoColor=00D4AA)
-  ![Waterfall](https://img.shields.io/badge/Waterfall-6B7280?style=for-the-badge&logo=waterfall&logoColor=00D4AA)
-  ![Spiral](https://img.shields.io/badge/Spiral-9CA3AF?style=for-the-badge&logo=spiral&logoColor=1F2937)
-  
+
 </div>
 
 ---
