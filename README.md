@@ -99,13 +99,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshsehgal08&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&count_private=true)
 
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsehgal08&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8)
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshsehgal08&theme=radical" height="200" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshsehgal08&theme=radical" height="200" />
+
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshsehgal08&theme=radical" />
+</div>
+
+
+
 
 ---
 
